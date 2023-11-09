@@ -1,0 +1,23 @@
+.navbar{
+    background-image: linear-gradient(#101012fb , #162117b6);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.brand{
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
+    margin: 20px 50px 20px;
+}
+
+
+.items{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    margin: 25px 50px;
+}
+.link{
+    margin-right: 50px;
+}
