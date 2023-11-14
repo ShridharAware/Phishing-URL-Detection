@@ -1,0 +1,91 @@
+.form{
+    background-color: rgba(31, 58, 31, 0.703);
+    width: 43%;
+    height: 550px;
+    margin-top: 3%;
+    margin-left: 28%;
+    border-radius: 30px;
+}
+.header{
+    text-align: center;
+    margin-top: 2%;
+    font-size: 26px;
+    color: white;
+    font-weight: 500;
+}
+
+.inputs{
+    color: white;
+    font-size: 18px;
+    margin-left: 40px;
+}
+
+input[type = submit]{
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 35%;
+    width: 100px;
+    color: white;
+    background-color: rgb(68, 155, 68);
+    border-radius: 10px;
+}
+input[type = reset]{
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 100px;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+}
+
+
+.name{
+    background-color: rgba(240, 248, 255, 0.215);
+    border-bottom: 2px solid rgb(144, 63, 63);
+    width : 350px;
+    margin-left: 80px;
+    margin-top: 15px;
+}
+.email{
+    background-color: rgba(240, 248, 255, 0.215);
+    border-bottom: 2px solid rgb(144, 63, 63);    
+    width : 350px;
+    margin-left: 48px;
+    margin-top: 15px;
+}
+.mobile{
+    background-color: rgba(240, 248, 255, 0.215);
+    border-bottom: 2px solid rgb(144, 63, 63);    
+    width : 350px;
+
+    margin-left: 33px;
+    margin-top: 15px;
+}
+.review{
+    background-color: rgba(240, 248, 255, 0.215);
+    border-bottom: 2px solid rgb(144, 63, 63);
+    width : 350px;
+    margin-left: 101px;
+    margin-top: 15px;
+}
+.labelName, .name {
+    margin-top: 30px;
+}
+.popup{
+    margin-top: 30px;
+    background-color: azure;
+    width: 500px;
+    height: 60px;
+    margin-left: 27%;
+    border-radius: 15px;
+}
+.popButton{
+    margin-top: 5px;
+    width: 80px;
+    padding: 2px;
+    background-color: rgb(214, 84, 84);
+    border-radius: 10px;
+    color: white;
+    margin-left: 150px;
+}
