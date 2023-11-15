@@ -23,11 +23,11 @@ const Navigation: React.FC = () => {
               Contact Us
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link to="/faq" className={NavbarCSS.link}>
               FAQ
             </Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </>
